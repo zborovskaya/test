@@ -6,6 +6,7 @@
 using namespace std;
 double s(double , double , int&);
 double y(double );
+double ywe(double );
 
 int main()
 {
